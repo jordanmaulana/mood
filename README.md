@@ -1,6 +1,11 @@
 # mood
 
-A new Flutter project.
+A custom painter demonstration by smiling face :)
+
+
+Uploading Screen Recording 2021-10-01 at 14.40.39.mov…
+
+
 
 ## Getting Started
 
