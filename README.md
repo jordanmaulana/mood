@@ -2,9 +2,7 @@
 
 A custom painter demonstration by smiling face :)
 
-
-Uploading Screen Recording 2021-10-01 at 14.40.39.mov…
-
+https://user-images.githubusercontent.com/17192308/135583770-f2ff3927-8637-4869-b57f-9cba92dcfb97.mov
 
 
 ## Getting Started
